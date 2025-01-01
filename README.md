@@ -2,6 +2,8 @@
 
  ![GitHub repo size](https://img.shields.io/github/repo-size/SerafimEverton/Altera-Fundo)
 
+ ![GitHub closed pull requests](https://badges.cucumber.io/github/issues-pr-closed/SerafimEverton/Altera-Fundo?color=%23AFFCCD&logoColor=%23BBB&style=flat-square)
+
 <p>
 <img src="./imagens/Tiger-Transparent-PNG.png"></img>
 
