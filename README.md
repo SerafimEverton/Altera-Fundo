@@ -103,4 +103,8 @@ No Javascript os botões definidos no HTML são capturados através do método `
 
 - Entre em contato com Everton através do email *`Ajuda@teste.com`*
 
+  -----------
+
+  <p align="center">Feito com ☕ por Everton</p>
+
 
